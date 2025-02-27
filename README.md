@@ -36,7 +36,7 @@ This project creates a **Gazebo simulation** for detecting a circular object usi
   - Convert image to grayscale.
   - Detect blobs.
   - Highlight detected object.
-  ![Pac-Man Simulation](https://github.com/ValentinaGiannotti/Pac-Man-/blob/main/pac-man-simulation.gif)](https://github.com/ValentinaGiannotti/Homework3/blob/main/detection.png)
+  ![Pac-Man Simulation](https://github.com/ValentinaGiannotti/Homework3/blob/main/detection.png)
 
 
 ## 2. Modifying the Look-at-Point Vision-Based Control Example
