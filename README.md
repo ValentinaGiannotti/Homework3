@@ -36,6 +36,7 @@ This project creates a **Gazebo simulation** for detecting a circular object usi
   - Convert image to grayscale.
   - Detect blobs.
   - Highlight detected object.
+    
   ![Pac-Man Simulation](https://github.com/ValentinaGiannotti/Homework3/blob/main/detection.png)
 
 
