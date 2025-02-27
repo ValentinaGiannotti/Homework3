@@ -1,4 +1,4 @@
-# Robotics Lab Homework 3
+#  Constructing a Gazebo World and Detecting a Circular Object
 
 ## Table of Contents
 1. [Overview](#overview)
